@@ -30,6 +30,6 @@
 <div>
   <h2>🎓 Formação Acadêmica 🎓</h2> 
     <p>⚙️ Cursando Comércio Exterior - Faculdade de Tecnologia (FATEC)</p> 
-    <p>💻 Cursando técnico em Multimídia</p> 
+    <p>💻 Cursando técnico em Multimídia - Senai Paulo Antonio Skaf - São Caetano do Sul</p> 
     
 </div>
